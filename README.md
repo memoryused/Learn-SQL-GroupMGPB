@@ -1,3 +1,10 @@
+# CS653 Group Members
+1. `memoryused`: นายอนุสรณ์ เลาพระเกี้ยง (6509035132) 
+2. `grill112233`: นายจรัลชัย ศรีสวัสดิ์ ()
+3. `JidaphaM`: นางสาวจิดาภา เมฆอ่อน ()
+4. `Chookia`: นายชูเกียรติ เครือสวัสดิ์ ()
+5. `PPkukongJames`: นายพิตรพิบูล กู่ก้อง ()
+
 # Learn SQL
 If you haven't already make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
 
