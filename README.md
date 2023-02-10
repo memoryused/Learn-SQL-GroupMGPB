@@ -2,8 +2,8 @@
 1. `memoryused`: นายอนุสรณ์ เลาพระเกี้ยง (6509035132) 
 2. `grill112233`: นายจรัลชัย ศรีสวัสดิ์ (6509035231)
 3. `JidaphaM`: นางสาวจิดาภา เมฆอ่อน (6509035124)
-4. `Chookia`: นายชูเกียรติ เครือสวัสดิ์ ()
-5. `PPkukongJames`: นายพิตรพิบูล กู่ก้อง ()
+4. `Chookia`: นายชูเกียรติ เครือสวัสดิ์ (6509035108)
+5. `PPkukongJames`: นายพิตรพิบูล กู่ก้อง (6209611000)
 
 # Learn SQL
 If you haven't already make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
